@@ -1,6 +1,6 @@
-# gebetlesen
+# Aplikasi Bacaan Sholat dengan Flutter
 
-A new Flutter project.
+Berisikan Niat-niat Sholat Wajib, Bacaan Sholat dan Ayat Kursi
 
 ## Getting Started
 
